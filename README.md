@@ -21,15 +21,15 @@
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/f9e87726.gif" width="100%">
   </div>
   <div align="center">
-  <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2310535.gif" width="50%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2310535.gif" width="40%">
   </div>
 <div align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769652.gif" width="50%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1777760.gif" width="80%">
   </div>
   <div align="center">
-   <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/ezgif-7f98b5ae5ee3828f.gif" width="17.6%"> <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/0e7a56eaa500263ca93a9b8308196e11.jpg" width="45%"><img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/ezgif-7f98b5ae5ee3828f.gif" width="17.6%"> 
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/ezgif-7f98b5ae5ee3828f.gif" width="20%"> <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/0e7a56eaa500263ca93a9b8308196e11.jpg" width="51%"><img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/ezgif-7f98b5ae5ee3828f.gif" width="20%"> 
     <div align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2816309.gif" width="100%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/115a052a.gif" width="100%">
   </div>
   <br>
   <a href="https://git.io/typing-svg">
