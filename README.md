@@ -32,8 +32,7 @@
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/115a052a.gif" width="100%">
   </div>
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=4968&pause=973&color=F700E1&background=002DFF00&center=true&width=435&lines=MCR+FAN;MSI+FAN;DANGANRONPA+FAN;ZENO+FAN;KOMAHINA+SHIPPER;FRERARD+SHIPPER;MCCAFFERTY+LISTENER;SCENE+BOY!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=40&pause=1000&color=C00000&center=true&width=440&height=70&lines=Harry+Potter+Fan;Draco+lover;My+Chemical+Romance;Frerard+Shipper;Mindless+Self+Indulgence;Star+Wars;Spider+Verse;Eeveevolutions+%3C3" alt="Typing SVG" /></a>
   <br>
 </div>
 <div align="center">
